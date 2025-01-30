@@ -1,5 +1,7 @@
 name: Step 4, Merge your pull request
 
+# Extra comment added as part of tutorial - can be deleted later
+
 # This step listens for the learner to merge a pull request with branch `my-first-branch`.
 # This workflow updates from step 4 to step X.
 
